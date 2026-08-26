@@ -87,7 +87,7 @@
         stdenv.cc.cc.lib
         libotf
         alsa-lib
-        gst_all_1.gst-vaapi
+
         libva
         libselinux
         libGL
